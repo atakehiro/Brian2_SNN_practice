@@ -1,2 +1,14 @@
 # Brian2_SNN_practice
 Implementation of Spiking Neural Network with Brian 2
+
+Brian2を用いたSNNのコード。
+
+参考レポジトリ：https://github.com/zxzhijia/Brian2STDPMNIST
+
+## Environment
+
+Python=3.6
+
+Anaconda
+
+Brian2==2.3.0.2
