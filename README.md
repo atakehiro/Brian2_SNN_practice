@@ -12,3 +12,6 @@ Python=3.6
 Anaconda
 
 Brian2==2.3.0.2
+
+## Future Plan
+これからもコードを追加していく予定。
