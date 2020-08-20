@@ -3,6 +3,8 @@ Implementation of Spiking Neural Network with Brian 2
 
 Brian2を用いたSNNを試しながら作っていくレポジトリです。
 
+参考レポジトリ：https://github.com/zxzhijia/Brian2STDPMNIST
+
 ## Environment
 
 Python=3.6
