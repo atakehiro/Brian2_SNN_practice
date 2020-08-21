@@ -1,5 +1,5 @@
 # Brian2_SNN_practice
-Implementation of Spiking Neural Network with Brian 2
+Implementation of Spiking Neural Network with Brian 2 (trial)
 
 Brian2を用いたSNNをシンプルなものから試しに作っています。
 
