@@ -1,9 +1,10 @@
 # Brian2_SNN_practice
 Implementation of Spiking Neural Network with Brian 2
 
-Brian2を用いたSNNを試したものを公開したものです。
+Brian2を用いたSNNをシンプルなものから試しに作っています。
 
-参考レポジトリ：https://github.com/zxzhijia/Brian2STDPMNIST
+厳密なDiehl&Cookは次のレポジトリが参考になります。
+https://github.com/zxzhijia/Brian2STDPMNIST
 
 ## Environment
 
