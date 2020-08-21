@@ -3,6 +3,8 @@ Implementation of Spiking Neural Network with Brian 2 (trial)
 
 Brian2を用いたSNNをシンプルなものから試しに作っています。
 
+Code7で数字をマッピング出来ました。
+
 厳密なDiehl&Cookモデルは次のレポジトリが参考になります。
 https://github.com/zxzhijia/Brian2STDPMNIST
 
