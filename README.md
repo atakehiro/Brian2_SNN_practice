@@ -5,6 +5,8 @@ Brian2を用いたSNNをシンプルな設定から作って試しています�
 
 Code7と8では数字がマッピングされてきました。
 
+SynapseフォルダとSpikeフォルダにはそれぞれの途中経過が保存されます。
+
 厳密なDiehl&Cookモデルは次のレポジトリが参考になります。
 https://github.com/zxzhijia/Brian2STDPMNIST
 
