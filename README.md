@@ -10,7 +10,8 @@ SynapseフォルダとSpikeフォルダにはそれぞれの途中経過が保�
 厳密なDiehl&Cookモデルは次のレポジトリが参考になります。
 https://github.com/zxzhijia/Brian2STDPMNIST
 
-ブログ記事：https://system-medicine.blog.jp/archives/7153806.html
+ブログ記事も参考にしてください。
+https://system-medicine.blog.jp/archives/7153806.html
 
 ## Environment
 
